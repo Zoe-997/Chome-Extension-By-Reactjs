@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Upload to chome extension
+Step 1: Run npm run build
+
+Step 2: go to chrome://extensions/
+
+Step 3: Enable Developer mode => Choose Upload unpacked
+
+Step 4: Choose build folder in project and click Select Folder
